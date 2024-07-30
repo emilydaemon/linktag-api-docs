@@ -1,2 +1,1 @@
-# linktag-api-docs
-Let's attempt to document LinkTag. Unofficial.
+# GO TO https://github.com/emilydaemon/linktag-api-docs/wiki
